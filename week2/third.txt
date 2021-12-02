@@ -1,0 +1,3 @@
+=> dpkg -l
+(otherwise use
+=> apt list)
